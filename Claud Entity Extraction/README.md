@@ -1,4 +1,4 @@
-This Python script leverages AWS Bedrock and BeautifulSoup to analyze email contents and extract the names of books mentioned within them. Here’s a concise summary:
+This Python script leverages AWS Bedrock and BeautifulSoup to analyze email contents and extract the names of books mentioned within them. 
 
 Technologies Used:
 * Python Standard Libraries: json, os, sys, pathlib
