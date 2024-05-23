@@ -1,1 +1,1 @@
-Project Repository For AWS from Upper Bound Workshop
+Project Repository For AWS (Upper Bound)
